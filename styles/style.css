@@ -148,11 +148,13 @@ left: 250px;
     left: -23%;
 }
 .video-icon{
-    width: 30px;
-    height: 30px;
-    background: rgb(230, 83, 60);
-    border-radius: 50%;
+    width: 40px;
+    height: 40px;
 }
+.video-icon img{
+    width: 100%;
+}
+
 /* your havits */
 .your-havits{
     margin-top: 100px;
