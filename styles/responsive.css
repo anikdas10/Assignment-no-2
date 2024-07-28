@@ -57,6 +57,18 @@
         flex-direction: column;
         gap: 30px;
     }
+/* run extra */
+    .run-extra{
+        flex-direction:column ;
+        margin-top: 50px;
+    }
+    .run-txt-container,.run-img-container{
+        width: 100%;
+    }
+    .btn-responsive-2{
+        width: 100%;
+        margin-bottom: 30px;
+    }
 
 
 }
