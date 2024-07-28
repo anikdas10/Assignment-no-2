@@ -84,6 +84,20 @@
         margin-top: 20px;
         margin-bottom: 50px;
     }
+/* meet our team */
+    .our-team{
+        margin-top: 50px;
+    }
+    .team-image-container{
+        grid-template-columns: repeat(1,1fr);
+    }
+    .team-image{
+        width: 100%;
+        height:350px;
+    }
+    .your-txt-container{
+        width: 90%;
+    }
 
 
 }
