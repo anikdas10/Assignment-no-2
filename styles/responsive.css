@@ -11,5 +11,40 @@
         display: block;
         cursor: pointer;
     }
+    /* header container */
+    .header-container{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .header-txt-container{
+        width:100%;
+        margin-top: 50px;
+    }
+    .header-title{
+        font-size: 3.5rem;
+
+    }
+    .btn-container{
+        display: flex;
+    }
+    .btn-1{
+        display: none;
+    }
+    .btn-responsive-1{
+        display: block;
+    }
+    .header-img-container{
+        margin: 0 auto;
+    }
+    .div-1{
+        top: 10%;
+        left: 55%;
+    }
+    .div-2{
+        top: 45%;
+        left: 5%;
+    }
+
 
 }
