@@ -45,6 +45,18 @@
         top: 45%;
         left: 5%;
     }
+/* your havits */
+    .your-txt-container{
+        width: 100%;
+    }
+    .img-container{
+        width: 50%;
+        margin: 0 auto;
+    }
+    .your-img-container{
+        flex-direction: column;
+        gap: 30px;
+    }
 
 
 }
