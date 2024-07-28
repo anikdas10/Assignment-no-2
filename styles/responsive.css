@@ -69,6 +69,21 @@
         width: 100%;
         margin-bottom: 30px;
     }
+/* bmi container */
+.bmi-txt-container{
+    width: 100%;
+    margin-top: 50px;
+}
+    .bmi-container{
+        flex-direction: column;
+    }
+    .bmi-box{
+        width: 100%;
+    }
+    table{
+        margin-top: 20px;
+        margin-bottom: 50px;
+    }
 
 
 }
