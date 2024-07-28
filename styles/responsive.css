@@ -1,2 +1,15 @@
 /* for mobile devices */
+@media screen and (max-width:576px) {
+.container{
+    margin: 0 20px;
+}
+/* nav bar */
+    .header-btn-container{
+        display: none;
+    }
+    .ham-burger{
+        display: block;
+        cursor: pointer;
+    }
 
+}
