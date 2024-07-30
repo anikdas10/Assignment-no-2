@@ -37,8 +37,9 @@
     .header-img-container{
         margin: 0 auto;
     }
-    .div-1{
+    .div-1,.div-2{
         width: 9rem;
+        height: 4.5rem;
         top: 10%;
         left: 55%;
         padding: 0;

@@ -124,7 +124,7 @@ margin-top: 10px;
 
 .div-1,.div-2{
     width: 12rem;
-padding: 10px;
+    height: 6rem;
 box-sizing: border-box;
 border: 1px solid rgba(255, 255, 255, 0.1);
 border-radius: 12px;
@@ -142,7 +142,7 @@ left: 250px;
 }
 .div-2{
     flex-direction: row;
-    gap: 10px;
+    gap: 3px;
     position:absolute;
     top: 70%;
     left: -23%;
