@@ -38,12 +38,19 @@
         margin: 0 auto;
     }
     .div-1{
+        width: 9rem;
         top: 10%;
         left: 55%;
     }
     .div-2{
         top: 45%;
         left: 5%;
+    }
+    .d-title-1{
+        font-size: 1.5rem;
+    }
+    .d-description{
+        font-size: 0.8rem
     }
 /* your havits */
     .your-txt-container{
