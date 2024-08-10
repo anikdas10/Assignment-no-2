@@ -109,6 +109,10 @@
     .your-txt-container{
         width: 90%;
     }
+    /* challange part */
+    .input-container{
+        flex-direction: column;
+    }
 /* footer section */
     .footer-txt-container{
         flex-direction: column;
